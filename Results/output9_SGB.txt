@@ -1,0 +1,2 @@
+Número de cores diferentes usadas: 20
+Tempo de execução: 1 ms
